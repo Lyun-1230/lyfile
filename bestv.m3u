@@ -9,22 +9,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1,tvg-id="苏州" tvg-name="苏州-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/suzhou4k.png" group-title="4K",苏州-4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场-4k" tvg-logo="http://n.ysyz.top:99/buyaolian/hxjc4k.png" group-title="4K",欢笑剧场-4k
-https://tv.iill.top/bestv/hxjc4k/15000000
-#EXTINF:-1,tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/leonoreshaw/IPTV/main/img/hs.png" group-title="4K",华数-4K
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="4K",CCTV16-4K
-https://tv.iill.top/bestv/cctv16hd4k/15000000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
-https://tv.iill.top/bestv/cctv4k/15000000
-#EXTINF:-1,tvg-id="CCTV1-4K" tvg-name="CCTV1-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1-4K" tvg-name="CCTV1-4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="4K",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1,tvg-id="CCTV5-4K" tvg-name="CCTV5-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K",CCTV5-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="央视",CCTV1
-http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视",CCTV2
 http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
